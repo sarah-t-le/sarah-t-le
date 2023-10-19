@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-#SarahLe
 Welcome to my portfolio page.
